@@ -1,5 +1,5 @@
 # default cofig file
 
 site_name: "Silly server"
-database: postgresql://ruslan:password@localhost:5432/sillyserver
+database: postgresql://user:password@localhost:5432/sillyserver
 
